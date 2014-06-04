@@ -1,0 +1,22 @@
+{
+  "name": "talktome",
+  "version": "0.0.0",
+  "authors": [
+    "mrchimp <chimpytk@gmail.com>"
+  ],
+  "description": "Speech synthesis API demo",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "html5-boilerplate": "~4.3.0",
+    "bootstrap": "~3.1.1"
+  }
+}
